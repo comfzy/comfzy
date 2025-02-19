@@ -1,6 +1,31 @@
-- 👋 Hi, I’m @comfuzxc
-- 👀 I’m interested in python
-- 🌱 I’m currently learning math
+### Hi there, I'm Zhiyuan [Personal Website][website] 👋
+
+
+
+### Connect with me:
+
+[<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HZ | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+[<img align="left" alt="HZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+<br />
+
+
+
+### :beach_umbrella: My Research Interests
+- LLM security
+
+
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillChan226&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BillChan226&langs_count=8&theme=vue&layout=compact)]()
+
+
+
+[website]: https://comfzy.github.io/
+[GoogleScholar]: https://scholar.google.com/citations?user=M0ciXiUAAAAJ&hl=en
 
 
 <!---
