@@ -1,4 +1,4 @@
-### Hi there, I'm Zhiyuan [Personal Website][website] 👋
+### Hi there, I'm Zhiyuan  👋
 
 
 
