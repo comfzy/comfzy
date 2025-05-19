@@ -5,7 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HZ | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+
 
 
 <br />
@@ -36,7 +36,7 @@
 </table>
 
 [website]: https://comfzy.github.io/
-[GoogleScholar]: https://scholar.google.com/citations?user=M0ciXiUAAAAJ&hl=en
+
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/comfzy/count.svg)
