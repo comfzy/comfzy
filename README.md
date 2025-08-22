@@ -39,7 +39,7 @@
 
 
 # Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/comfzy/count.svg)
+[![Cyzsd profile views](https://u8views.com/api/v1/github/profiles/29921113/views/day-week-month-total-count.svg)](https://u8views.com/github/comfzy)
 <!---
 comfuzxc/comfuzxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
