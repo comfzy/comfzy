@@ -17,10 +17,6 @@
 
 
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=comfzy&count_private=true&theme=vue&show_icons=true)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=comfzy&langs_count=8&theme=vue&layout=compact)]()
-
 <table>
     <tr>
         <td >
@@ -40,6 +36,7 @@
 
 # Visitor Count
 [![Cyzsd profile views](https://u8views.com/api/v1/github/profiles/29921113/views/day-week-month-total-count.svg)](https://u8views.com/github/comfzy)
+[![IP 信息卡片](https://card.net.coffee/v1/card.svg?style=meteor&sticker=gem&w=480)](https://ip.net.coffee/ip/ "查看 IP")
 <!---
 comfuzxc/comfuzxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
